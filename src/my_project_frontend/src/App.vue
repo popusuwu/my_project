@@ -33,3 +33,4 @@ getChat()
     <section id="displayChat">{{ displayChat }}</section>
   </main>
 </template>
+
